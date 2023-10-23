@@ -16,7 +16,7 @@ function addTwoNumbers(num1, num2) {
 }
 
 const result = addTwoNumbers(3, 4)
-console.log("Reslut: ", result);
+console.log("Result: ", result);
 
 function loginUserMsg(username = "Sam"){
     if(username === undefined){

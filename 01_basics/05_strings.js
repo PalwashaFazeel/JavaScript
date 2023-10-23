@@ -17,7 +17,7 @@ console.log(objName.indexOf('l'));
 const newString = objName.substring(0, 5)
 console.log(newString);
 
-const anotherString = objName.slice(-9, 8)
+const anotherString = objName.slice(-2, 4)
 console.log(anotherString);
 
 const newString1 = "         Palwasha       "

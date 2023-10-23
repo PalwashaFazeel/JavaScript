@@ -22,8 +22,8 @@ console.log(Math.abs(-5));
 console.log(Math.round(4.89))
 console.log(Math.ceil(4.3));
 console.log(Math.floor(4.8));
-console.log(Math.min(7,4, 2, 5, 10));
-console.log(Math.max(7,4, 2, 5, 10));
+console.log(Math.min(7, 4, 2, 5, 10));
+console.log(Math.max(7, 4, 2, 5, 10));
 console.log(Math.random());
 console.log((Math.random()*10) + 1);
 
